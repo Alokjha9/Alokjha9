@@ -17,11 +17,11 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on **exciting projects**
-- 🌱 I'm constantly learning and exploring **new technologies**
-- 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **anything tech-related**
-- ⚡ Fun fact: **I love solving complex problems!**
+-  I'm currently working on **exciting projects**
+-  I'm constantly learning and exploring **new technologies**
+-  I'm looking to collaborate on **open source projects**
+-  Ask me about **anything tech-related**
+-  Fun fact: **I love solving complex problems!**
 
 ---
 
